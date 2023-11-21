@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\LSabe\\OneDrive\\Desktop\\Project stuff\\Bobble Head Stand\\Bobble_Head_Stand\\.vscode\\arduino.json"
+{
+    "sketch": "Bobble_Head_Stand.ino",
+    "configuration": "usb=serial,speed=48,opt=osstd,keys=en-us",
+    "board": "teensy:avr:teensyLC",
+    "port": "COM4",
+    "output": "../ArduinoOutput"
+}

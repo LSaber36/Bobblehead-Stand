@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\LSabe\\AppData\\Local\\Arduino15\\packages\\teensy\\hardware\\avr\\1.58.1\\cores\\teensy3"
+  },
+  {
+    "Sourcefile": "C:\\Users\\LSabe\\OneDrive\\Desktop\\Project stuff\\Bobble Head Stand\\ArduinoOutput\\sketch\\Bobble_Head_Stand.ino.cpp",
+    "Include": "SoftwareSerial.h",
+    "Includepath": "C:\\Users\\LSabe\\AppData\\Local\\Arduino15\\packages\\teensy\\hardware\\avr\\1.58.1\\libraries\\SoftwareSerial"
+  },
+  {
+    "Sourcefile": "C:\\Users\\LSabe\\OneDrive\\Desktop\\Project stuff\\Bobble Head Stand\\ArduinoOutput\\sketch\\Bobble_Head_Stand.ino.cpp",
+    "Include": "Adafruit_Soundboard.h",
+    "Includepath": "C:\\Users\\LSabe\\Documents\\Arduino\\libraries\\Adafruit_Soundboard_library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\LSabe\\OneDrive\\Desktop\\Project stuff\\Bobble Head Stand\\ArduinoOutput\\sketch\\Bobble_Head_Stand.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\LSabe\\AppData\\Local\\Arduino15\\packages\\teensy\\hardware\\avr\\1.58.1\\libraries\\SoftwareSerial\\SoftwareSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\LSabe\\Documents\\Arduino\\libraries\\Adafruit_Soundboard_library\\Adafruit_Soundboard.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

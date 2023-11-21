@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "teensy:avr:teensyLC:usb=serial,speed=48,opt=osstd,keys=en-us",
+  "hardwareFolders": "C:\\Users\\LSabe\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\LSabe\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\LSabe\\OneDrive\\Desktop\\Project stuff\\Bobble Head Stand\\Bobble_Head_Stand"
+}
