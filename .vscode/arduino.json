@@ -1,0 +1,6 @@
+{
+    "sketch": "Firmware\\Bobble_Head_Stand\\Bobble_Head_Stand.ino",
+    "configuration": "usb=serial,speed=48,opt=osstd,keys=en-us",
+    "board": "teensy:avr:teensyLC",
+    "port": "COM6"
+}
