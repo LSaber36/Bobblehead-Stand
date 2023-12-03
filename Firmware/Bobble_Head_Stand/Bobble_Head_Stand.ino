@@ -44,8 +44,6 @@ void playStartupFile() {
 }
 
 void playRandomFile() {
-  Serial.print("Number of files: "); Serial.println(totalNumFiles);
-
   uint8_t file_index = (rand() % (totalNumFiles-1)) + 1;
 
   Serial.print("\nPlaying Random File - Track #"); Serial.println(file_index);
@@ -78,7 +76,7 @@ void setup() {
   Serial2.begin(9600);
 
   // Set the RNG generator seed using the current time
-  srand(time(NULL));
+  srand(analogRead(0));
 
   // Call custom reset function for optimization
   // The caveat of this is that we aren't checking for a response, so it's technically not as robust
@@ -97,7 +95,8 @@ void setup() {
     digitalWrite(LED_BUILTIN, (i % 2 == 0));
     delay(250);
   }
-  Serial.println("Program Ready!");
+  Serial.print("Number of files: "); Serial.println(totalNumFiles);
+  Serial.println("\nProgram Ready!");
 }
 
 void loop() {
